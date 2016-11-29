@@ -1,0 +1,12 @@
+22.59 88.26 Howrah-JN
+22.92 88.37 Bandel-JN
+22.70 88.25 Dankuni-JN
+23.32 87.77 Khana-JN
+23.67 86.95 Asansol-JN
+22.56 88.37 Sealdah-JN
+22.64 88.43 DumDum-JN
+22.52 88.36 Bullygunj-JN
+22.36 88.43 Baruipur-JN
+22.44 88.43 Sonarpur-JN
+22.77 88.32 Shaoraphuli-JN
+23.24 87.86 Barddhaman-JN

@@ -1,0 +1,49 @@
+26.35 89.46 New-Cooch-Bihar
+26.54 88.64 Raninagar
+26.68 88.44 New-Jalpaiguri-JN
+26.09 87.95 Kishanganj
+25.87 87.83 Dalkohla
+26.28 91.75 .
+
+
+......
+
+25.55 87.57 Katihar 
+26.50 89.52 Alipur-Duar
+26.43 89.90 Srirampur 
+26.36 90.18 Fakiragram
+26.40 90.27 Kokrajhar 
+26.47 90.56 New-Bongaigaon
+26.32 90.57 Jogighopa
+26.16 90.62 Golpara-town
+25.98 90.78 Dudhnoi
+26.50 90.97 Barpeta-Road
+26.05 91.37 Chaya-Gaon
+26.44 91.44 Nalbari
+26.45 91.60 Rangiya-JN
+26.17 91.70 Kamakhya
+26.24 92.03 Pabitara
+26.12 92.20 Jagi-Road
+26.20 92.51 Champamukh-JN
+26.00 92.84 Hojai
+25.75 93.17 Lumding
+25.84 93.42 Diphu
+25.80 93.60 Dhansiri
+25.86 93.75 Dimapur
+26.02 93.77 Bokajan
+26.19 93.86 Sarupathar
+26.46 94.02 Furkating-JN
+26.65 94.31 Mariani-JN
+26.74 94.20 Jorhat
+26.91 94.76 Simulguri
+27.18 95.34 Namrup
+27.50 95.34 Tinsukia
+
+
+.....
+
+25.01 88.12 Malda-Town
+25.16 88.09 Eklakhi
+25.40 87.86 Harischandrapur
+25.42 87.80 Kumedpur-JN
+25.65 87.92 Barsoi-JN
